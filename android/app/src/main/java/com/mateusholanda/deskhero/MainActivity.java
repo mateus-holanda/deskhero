@@ -1,4 +1,4 @@
-package com.rockethelp;
+package com.mateusholanda.deskhero;
 
 import android.os.Build;
 import android.os.Bundle;

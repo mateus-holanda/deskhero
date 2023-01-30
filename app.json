@@ -1,10 +1,21 @@
 {
   "expo": {
-    "name": "rockethelp",
-    "slug": "rockethelp",
+    "name": "deskhero",
+    "slug": "deskhero",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "plugins": [
+      "@react-native-firebase/app"
+    ],
+    "android": {
+      "package": "com.mateusholanda.deskhero",
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "bundleIdentifier": "com.mateusholanda.deskhero",
+      "googleServicesFile": "./GoogleService-Info.plist"
+    }
   }
 }

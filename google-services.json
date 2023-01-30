@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "329655606510",
+    "project_id": "deskhero-app",
+    "storage_bucket": "deskhero-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329655606510:android:9461252b14348706ef67ff",
+        "android_client_info": {
+          "package_name": "com.mateusholanda.deskhero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329655606510-ti5tf8huph09grp6b659ffeekviq9sil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_2Y6GrfGLASnGgpUrDLC0tQ92-GN3ihY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329655606510-ti5tf8huph09grp6b659ffeekviq9sil.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "329655606510-5emqgdjddpe6ikmh4am8r7poftsilbe9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mateusholanda.deskhero"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
